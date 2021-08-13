@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Draw Routes</string>
+    <string name="logo">Logo</string>
+    <string name="car">Car</string>
+    <string name="arrow_down">Arrow down</string>
+    <string name="user_location_button">User location button</string>
 </resources>
